@@ -1,0 +1,76 @@
+/* #root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+} */
+ .delete{
+  background-color: red;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  margin-top: 12px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+ }
+
+ .table{
+  display: flex;
+   gap: 30px;
+   padding: 25px 100px;
+   flex-wrap: wrap;
+   align-items: center;
+   justify-content: center;
+ }
+
+ .card{
+  border: 1px solid gainsboro;
+  border-radius: 10px;
+  padding: 20px;
+  width: 20vw;
+  
+  
+ }
+.apiimage{
+  width: 150px;
+}
+ .center{
+  text-align: center;
+  margin-top: 40px;
+ }
